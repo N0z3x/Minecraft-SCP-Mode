@@ -3,13 +3,13 @@ idkkk
 
 Now project is very wip. 
 
-# Things is finished
+# finished
 Class system,
 Class equipment system,
-Almost finished SCP-500
+SCP-500
 
 # Right now working on
-SCP-500
+Custom inventory
 
 # ALMOST FINISHED
-SCP-500
+
