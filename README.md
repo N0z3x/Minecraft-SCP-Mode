@@ -6,7 +6,7 @@ Now project is very wip.
 # finished
 Class system,
 Class equipment system,
-SCP-500
+SCP-500,
 Custom inventory
 
 # Right now working on
