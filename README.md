@@ -1,7 +1,7 @@
 # Minecraft-SCP-Mode
 idkkk
 
-Now project is very wip. 
+Now project is very wip.  Like only 7-15% done of this mode (hardest part is map, because i not builder)
 
 # finished
 Class system,
