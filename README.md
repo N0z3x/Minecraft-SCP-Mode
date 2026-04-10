@@ -7,9 +7,10 @@ Now project is very wip.
 Class system,
 Class equipment system,
 SCP-500
-
-# Right now working on
 Custom inventory
 
-# ALMOST FINISHED
+# Right now working on
+Keycards 
 
+# Fun
+in this mode will be available only 5 LVLs for keycards (2/5 done) 
