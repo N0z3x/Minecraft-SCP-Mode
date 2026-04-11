@@ -13,4 +13,6 @@ Custom inventory
 Keycards 
 
 # Fun
-in this mode will be available only 5 LVLs for keycards (2/5 done) 
+in this mode will be available only 5 LVLs for keycards (5/5 done) 
+|
+Also ru & eng translation
