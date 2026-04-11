@@ -1,7 +1,7 @@
 # Minecraft-SCP-Mode
 idkkk
 
-Now project is very wip.  Like only 15-25% done of this mode (hardest part is map, because i not builder, ig map will be Site-42 or site-19 or else. (more chances for site-42))
+Now project is very wip.  Like only 15-25% done of this mode (hardest part is map, because i not builder, ig map will be Site-42 or site-19 or else. (also i need builder.))
 
 # finished
 Class system,
