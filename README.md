@@ -7,7 +7,8 @@ Now project is very wip.  Like only 15-25% done of this mode (hardest part is ma
 Class system,
 Class equipment system,
 SCP-500,
-Custom inventory
+Custom inventory,
+Keycards models and textures
 
 # Right now working on
 Keycards 
