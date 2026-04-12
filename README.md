@@ -8,12 +8,10 @@ Class system,
 Class equipment system,
 SCP-500,
 Custom inventory,
-Keycards models and textures
+Keycards,
 
 # Right now working on
-Keycards 
+Door
 
 # Fun
-in this mode will be available only 5 LVLs for keycards (5/5 done) 
-|
-Also ru & eng translation
+Mode have ru & eng translation
