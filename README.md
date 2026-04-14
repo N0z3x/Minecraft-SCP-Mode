@@ -11,8 +11,8 @@ Custom inventory,
 Keycards,
 
 # Right now working on
-SCP-500 animation rework (with arms)
+FULL SCP-500 model & animations rework
 
 # Fun
-Mode have ru & eng translation
+Mode have ru & eng translation,
 i will make different mods because i need that
