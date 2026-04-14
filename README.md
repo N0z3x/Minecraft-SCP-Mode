@@ -11,7 +11,8 @@ Custom inventory,
 Keycards,
 
 # Right now working on
-Door
+SCP-500 animation rework (with arms)
 
 # Fun
 Mode have ru & eng translation
+i will make different mods because i need that
