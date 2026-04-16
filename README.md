@@ -1,3 +1,8 @@
+# IMPORTANT!
+PROJECT NOW I FROZEN BECAUSE I SO TIRED
+
+
+
 # Minecraft-SCP-Mode
 idkkk
 
