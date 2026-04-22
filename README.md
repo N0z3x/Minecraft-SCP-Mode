@@ -1,5 +1,5 @@
 # IMPORTANT!
-PROJECT NOW IS FREEZED BECAUSE I SO TIRED
+Hi guys, i back with my friend (he is builder & modeler
 
 
 
@@ -14,9 +14,12 @@ Class equipment system,
 SCP-500,
 Custom inventory,
 Keycards,
+SCP-096 Model & abillities,
+SCP-106 Model & abillities,
+Guard & MTF armor model
 
 # Right now working on
-FULL SCP-500 model & animations rework
+Fixing bugs
 
 # Fun
 Mode have ru & eng translation,
