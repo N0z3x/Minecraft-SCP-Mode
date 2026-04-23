@@ -1,12 +1,12 @@
 # IMPORTANT!
-Hi guys, i back with my friend (he is builder & modeler
+Hi guys, i back with my friend (he is builder & modeler)
 
 
 
 # Minecraft-SCP-Mode
 idkkk
 
-Now project is very wip.  Like only 15-25% done of this mode (hardest part is map, because i not builder, ig map will be Site-42 or site-19 or else. (also i need builder.))
+Now project is very wip.  Like only 26.2% done of this mode (hardest part is map, because i not builder, ig map will be Site-42 or site-19 or else. (also i need builder.))
 
 # finished
 Class system,
