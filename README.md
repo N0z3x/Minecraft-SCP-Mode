@@ -18,8 +18,8 @@ SCP-106 Model & abillities,
 Guard & MTF armor model
 
 # Right now working on
-Fixing bugs
+Fixing bugs, Animating SCP-096, 
 
 # Fun
 Mode have ru & eng translation,
-i will make different mods because i need that
+i will make different modes maybe (everyone SCP vs 1 experimental D-class with 1000 hp & insane damage buff or smth like that)
