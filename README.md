@@ -1,5 +1,5 @@
 # NOT IMPORTANT!
-Hi guys, i back with my friend (he is builder & modeler)
+
 
 
 
@@ -18,7 +18,7 @@ SCP-106 Model & abillities,
 Guard & MTF armor model
 
 # Right now working on
-Fixing bugs, Animating SCP-096, 
+Animating SCP-096, 
 
 # Fun
 Mode have ru & eng translation,
